@@ -2,12 +2,8 @@ flclashx-bin
 matugen-bin
 mpvpaper
 networkmanager-dmenu-git
-paru
-paru-debug
 quickshell-git
 spicetify-cli
 spotify
 swayosd-git
 vesktop-bin
-yay-bin
-yay-bin-debug
