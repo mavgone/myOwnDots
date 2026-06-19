@@ -1,0 +1,15 @@
+[Presets]
+lastLoadedOutputPreset=live_eq
+
+[StreamInputs]
+inputDevice=alsa_input.usb-Sony_Interactive_Entertainment_DualSense_Wireless_Controller-00.Direct__Direct__source
+
+[StreamOutputs]
+mostUsedPresets=live_eq
+outputDevice=alsa_output.usb-TTGK_Technology_Co._Ltd_CX31993_384Khz_HIFI_AUDIO-00.analog-stereo
+plugins=equalizer#0
+usedPresets=live_eq:3
+
+[Window]
+height=1016
+width=952
