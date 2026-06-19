@@ -7,3 +7,4 @@ spicetify-cli
 spotify
 swayosd-git
 vesktop-bin
+
