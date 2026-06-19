@@ -66,3 +66,12 @@ Terminal configuration.
 ### EasyEffects
 
 Audio presets and configuration.
+
+## Installation
+
+```bash
+git clone git@github.com:mavgone/myOwnDots.git
+cd myOwnDots
+
+./install-packages.sh
+./install.sh
