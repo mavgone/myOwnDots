@@ -32,7 +32,6 @@ inotify-tools
 iw
 jq
 kitty
-lib32-mesa
 libayatana-appindicator
 libkeybinder3
 libnotify
@@ -83,7 +82,6 @@ sddm
 slurp
 smartmontools
 socat
-steam
 sudo
 telegram-desktop
 tree
