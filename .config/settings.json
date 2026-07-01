@@ -301,6 +301,22 @@
     },
     {
       "type": "bindl",
+      "mods": "$mainMod",
+      "key": "Print",
+      "dispatcher": "exec",
+      "command": "~/.config/hypr/scripts/screenshot.sh --full",
+      "isEditing": false
+    },
+    {
+      "type": "bindl",
+      "mods": "$mainMod SHIFT_L",
+      "key": "Print",
+      "dispatcher": "exec",
+      "command": "~/.config/hypr/scripts/screenshot.sh --full --edit",
+      "isEditing": false
+    },
+    {
+      "type": "bindl",
       "mods": "",
       "key": "XF86PowerOff",
       "dispatcher": "exec",
@@ -538,8 +554,16 @@
       "dispatcher": "exec",
       "command": "~/.config/hypr/scripts/focus_next_monitor.sh",
       "isEditing": false
+    },
+    {
+      "type": "bind",
+      "mods": "$mainMod",
+      "key": "M",
+      "dispatcher": "fullscreen",
+      "command": "0",
+      "isEditing": false
     }
-  ],
+],
   "startup": [
     {
       "command": "systemctl --user start hyprpolkitagent"

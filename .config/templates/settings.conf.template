@@ -3,7 +3,7 @@
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 general {
-    border_size = 3
+    border_size = 0
     gaps_in = 4
     gaps_out = 4
     float_gaps = 6
@@ -16,7 +16,7 @@ general {
 decoration {
     rounding = 16
     active_opacity = 1.0
-    inactive_opacity = 0.55
+    inactive_opacity = 0.8
     blur {
         enabled = true
         size = 8
